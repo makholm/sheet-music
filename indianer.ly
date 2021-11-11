@@ -4,6 +4,7 @@
     fis1:m a2/cis2 d2 e1
   }
   \relative c' {
+    \key a \major
     <fis a   cis>1
     (
       <e    a   e'>2
